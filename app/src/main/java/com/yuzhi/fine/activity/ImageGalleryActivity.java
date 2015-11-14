@@ -9,7 +9,6 @@ import android.widget.TextView;
 
 import com.yuzhi.fine.R;
 import com.yuzhi.fine.ui.photoview.PhotoViewAdapter;
-import com.yuzhi.fine.ui.swipebacklayout.SwipeBackActivity;
 
 import java.util.ArrayList;
 import java.util.List;

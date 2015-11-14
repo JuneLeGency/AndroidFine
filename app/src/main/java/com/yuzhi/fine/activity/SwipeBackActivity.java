@@ -1,10 +1,14 @@
 
-package com.yuzhi.fine.ui.swipebacklayout;
+package com.yuzhi.fine.activity;
 
 import android.os.Bundle;
 import android.view.View;
 
-import com.yuzhi.fine.activity.BaseFragmentActivity;
+import me.imid.swipebacklayout.lib.SwipeBackLayout;
+import me.imid.swipebacklayout.lib.Utils;
+import me.imid.swipebacklayout.lib.app.SwipeBackActivityBase;
+import me.imid.swipebacklayout.lib.app.SwipeBackActivityHelper;
+
 
 public class SwipeBackActivity extends BaseFragmentActivity implements SwipeBackActivityBase {
     private SwipeBackActivityHelper mHelper;

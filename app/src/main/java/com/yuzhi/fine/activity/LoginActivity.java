@@ -4,7 +4,6 @@ import android.os.Bundle;
 import android.view.View;
 
 import com.yuzhi.fine.R;
-import com.yuzhi.fine.ui.swipebacklayout.SwipeBackActivity;
 
 
 /**
